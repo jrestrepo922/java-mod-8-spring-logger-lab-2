@@ -1,0 +1,46 @@
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Starting SpringLoggerLab2Application using Java 18.0.1.1 on MSI with PID 17128 (C:\Users\Work\Development\BlackRockXFlatiron\Week8\Labs\spring-logger-lab-2\target\classes started by Work in C:\Users\Work\Development\BlackRockXFlatiron\Week8\Labs\spring-logger-lab-2)
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Starting SpringLoggerLab2Application using Java 18.0.1.1 on MSI with PID 17128 (C:\Users\Work\Development\BlackRockXFlatiron\Week8\Labs\spring-logger-lab-2\target\classes started by Work in C:\Users\Work\Development\BlackRockXFlatiron\Week8\Labs\spring-logger-lab-2)
+DEB [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Running with Spring Boot v2.7.2, Spring v5.3.22
+DEB [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Running with Spring Boot v2.7.2, Spring v5.3.22
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       No active profile set, falling back to 1 default profile: "default"
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       No active profile set, falling back to 1 default profile: "default"
+INF [THREAD:main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer
+       Tomcat initialized with port(s): 8080 (http)
+INF [THREAD:main] org.apache.catalina.core.StandardService
+       Starting service [Tomcat]
+INF [THREAD:main] org.apache.catalina.core.StandardEngine
+       Starting Servlet engine: [Apache Tomcat/9.0.65]
+INF [THREAD:main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]
+       Initializing Spring embedded WebApplicationContext
+INF [THREAD:main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext
+       Root WebApplicationContext: initialization completed in 719 ms
+INF [THREAD:main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer
+       Tomcat started on port(s): 8080 (http) with context path ''
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Started SpringLoggerLab2Application in 1.263 seconds (JVM running for 1.598)
+INF [THREAD:main] com.flatiron.spring.SpringLoggerLab2Application
+       Started SpringLoggerLab2Application in 1.263 seconds (JVM running for 1.598)
+INF [THREAD:http-nio-8080-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]
+       Initializing Spring DispatcherServlet 'dispatcherServlet'
+INF [THREAD:http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet
+       Initializing Servlet 'dispatcherServlet'
+INF [THREAD:http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet
+       Completed initialization in 1 ms
+TRA [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       Trace at the beginning
+TRA [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       Trace at the beginning
+INF [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       The price of one tether is 1.0004730993982773 was return by the external API
+INF [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       The price of one tether is 1.0004730993982773 was return by the external API
+TRA [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       Trace at the end
+TRA [THREAD:http-nio-8080-exec-1] com.flatiron.spring.CryptoController
+       Trace at the end
